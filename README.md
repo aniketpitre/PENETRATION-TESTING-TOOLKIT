@@ -32,9 +32,8 @@ No external libraries are required for the provided modules. (The code uses the 
 
 Run the main script with the module name and appropriate options:
 
-### Port Scanner
+## Port Scanner
 
-```bash
 python pentest_toolkit.py port_scanner -t example.com --start-port 1 --end-port 1024 -T 100
 
 
@@ -46,3 +45,4 @@ Output:
 
 
 ![Image](https://github.com/user-attachments/assets/13a513e0-5cd4-4d1c-a04e-aa1421959f34)
+
