@@ -1,0 +1,7 @@
+password
+admin@123
+Password@123
+admin@password
+test
+sam@1234
+sample
