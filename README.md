@@ -1,5 +1,19 @@
 # Penetration Testing Toolkit
 
+*COMPANY*: CODTECH IT SOLUTIONS
+
+*NAME*: ANIKET AMOD PITRE
+
+*INTERN ID*: CT08QWA
+
+*DOMAIN*: CYBER SECURITY & ETHICAL HACKING
+
+*DURATION*: 4 WEEKS
+
+*MENTOR*: NEELA SANTOSH
+
+
+Description:
 **Disclaimer:** This toolkit is for educational purposes only. Use it only on systems you have permission to test.
 
 ## Overview
@@ -25,4 +39,10 @@ python pentest_toolkit.py port_scanner -t example.com --start-port 1 --end-port 
 
 
 python pentest_toolkit.py brute_forcer -t http://example.com -u admin -p path/to/password_list.txt --timeout 5
- 
+
+Output:
+
+![Image](https://github.com/user-attachments/assets/c7856fb0-b953-46f5-947c-7c1c44a2984c)
+
+
+![Image](https://github.com/user-attachments/assets/13a513e0-5cd4-4d1c-a04e-aa1421959f34)
